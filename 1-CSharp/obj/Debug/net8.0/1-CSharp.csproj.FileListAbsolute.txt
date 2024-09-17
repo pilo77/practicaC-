@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\bin\Debug\net8.0\1-CSharp.exe
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\bin\Debug\net8.0\1-CSharp.deps.json
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\bin\Debug\net8.0\1-CSharp.runtimeconfig.json
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\bin\Debug\net8.0\1-CSharp.dll
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\bin\Debug\net8.0\1-CSharp.pdb
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\1-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\1-CSharp.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\1-CSharp.AssemblyInfo.cs
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\1-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\1-CSharp.sourcelink.json
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\1-CSharp.dll
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\refint\1-CSharp.dll
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\1-CSharp.pdb
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\1-CSharp.genruntimeconfig.cache
+C:\Users\ThinkPad\3D Objects\EstudioC#\practicaC-\1-CSharp\obj\Debug\net8.0\ref\1-CSharp.dll
